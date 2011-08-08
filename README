@@ -1,0 +1,24 @@
+copyright (c) 2011  david morton
+
+this program is free software: you can redistribute it and/or modify
+it under the terms of the gnu general public license as published by
+the free software foundation, either version 3 of the license, or
+(at your option) any later version.
+
+this program is distributed in the hope that it will be useful,
+but without any warranty; without even the implied warranty of
+merchantability or fitness for a particular purpose.  see the
+gnu general public license for more details.
+
+you should have received a copy of the gnu general public license
+along with this program.  if not, see <http://www.gnu.org/licenses/>.
+=======================================================================
+
+pycsd is a set of functions that can be used to calculate the current
+source density in neural tissue.  The proceedure is published in
+
+Pettersen et. al, "Current-source density estimation based on inversion of 
+eletrostatic forward solution" 
+Journal of Neuroscience Methods 154 (2006) 116-133
+
+
